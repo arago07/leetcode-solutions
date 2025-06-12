@@ -19,3 +19,4 @@ Daily LeetCode problem solving for algorithm practice & interview prep
 - [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) - `1480_running_sum_of_1d_array.ipynb`
 - [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/) - `1431_kids_with_the_greatest_number_of_candies.ipynb`
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) - `412_fizz_buzz.ipynb`
+- [1. Two Sum](https://leetcode.com/problems/two-sum/description/) - `1_two_sum.ipynb`
