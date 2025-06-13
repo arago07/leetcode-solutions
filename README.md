@@ -21,3 +21,4 @@ Daily LeetCode problem solving for algorithm practice & interview prep
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) - `412_fizz_buzz.ipynb`
 - [1. Two Sum](https://leetcode.com/problems/two-sum/description/) - `1_two_sum.ipynb`
 - [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - `125_valid_palindrome.ipynb`
+- [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/) - `2114_maximum_number_of_words_found_in_sentences.ipynb`
