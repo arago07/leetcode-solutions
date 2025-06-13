@@ -20,3 +20,4 @@ Daily LeetCode problem solving for algorithm practice & interview prep
 - [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/) - `1431_kids_with_the_greatest_number_of_candies.ipynb`
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) - `412_fizz_buzz.ipynb`
 - [1. Two Sum](https://leetcode.com/problems/two-sum/description/) - `1_two_sum.ipynb`
+- [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - `125_valid_palindrome.ipynb`
