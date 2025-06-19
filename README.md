@@ -25,3 +25,4 @@ Daily LeetCode problem solving for algorithm practice & interview prep
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) - `217_contains_duplicate.ipynb`
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) - `242_valid_anagram.ipynb`
 - [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) - `9_palindrome_number.ipynb`
+- [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) - `944_delete_columns_to_make_sorted.ipynb`
